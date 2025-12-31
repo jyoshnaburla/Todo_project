@@ -1,5 +1,8 @@
 # Todo_project
 https://todo-project-fscy.onrender.com
+<img width="1600" height="723" alt="image" src="https://github.com/user-attachments/assets/f1815aa4-29c0-4270-9878-a8559a41a3d5" />
+<img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/4118c040-eb15-42d3-af1f-c5b94dc00a03" />
+<img width="1600" height="726" alt="image" src="https://github.com/user-attachments/assets/f5249e18-f866-4231-aee0-58781d1ab25a" />
 
 PROJECT REPORT
 Title
